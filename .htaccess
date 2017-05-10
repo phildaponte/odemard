@@ -1,7 +1,0 @@
-RewriteEngine On
-RewriteCond %{REQUEST_URI} ^/admin
-RewriteCond %{REMOTE_ADDR} !=10.0.0.1
-RewriteCond %{REMOTE_ADDR} !=10.0.0.2
-RewriteCond %{REMOTE_ADDR} !=10.0.0.3
-RewriteRule ^(.*)$ - [R=403,L]
-if the url begins with /admin and the remote address is not one of the three listed, send the browser on its merry way.
