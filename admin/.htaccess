@@ -1,7 +1,4 @@
- # ALLOW USER BY IP
-<Limit GET POST>
- Require all denied
- Require ip 162.158.126.67
-</Limit>
+RewriteEngine on
 
-ErrorDocument 403 http://www.raphael.fitness 
+RewriteCond %{REMOTE_ADDR} !^162\.158\.126\.67$
+RewriteRule ^/ - [F,NC]
