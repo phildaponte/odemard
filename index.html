@@ -4,6 +4,8 @@ title: Raphael Fitness
 description: Entraineur personel
 ---
 
+{% include header-img.html %}
+
 <!--======================================================
 	Home Section
 ======================================================-->
@@ -712,13 +714,14 @@ description: Entraineur personel
 
 			<ul class='blog-posts' >
 
+				{% for post in site.posts %}
 				<li>
 					<div class='blog-post' >
 						<figure>
-							<img src='img/diet.jpg' alt>
+							<img src='{{ post.img }}' alt>
 						</figure>
 						<div class='content' >
-							<h4>Connaître sa dépense calorique</h4>
+							<h4>{{ post.title }}</h4>
 							<ul class='post-icons' >
 								<li>
 									<i class='ion-ios-person' ></i>
@@ -726,111 +729,21 @@ description: Entraineur personel
 								</li>
 								<li>
 									<i class='ion-ios-clock' ></i>
-									<span>01/11/16</span>
+									<span>{{ post.date | date: "%B %Y" }}</span>
 								</li>
 								<li>
 									<i class='ion-ios-pricetag' ></i>
-									<span>Nutrition</span>
+									<span>{{ post.tag }}</span>
 								</li>
 							</ul>
 						</div>
 						<p>
-							L'alimentation est essentielle à notre santé. Le problème le plus fréquent est la sur-alimentation. Cet article permet de trouver votre dépense calorique quotidienne selon votre activité et profil, pour enfin atteindre l'équilibre nutritionnel. 
-							Essayez vous!
+							{{ post.body }}
 						</p>
 						<a href='blog-post.html' class='read-more' >Lire la suite</a>
 					</div>
 				</li>
-
-				<li>
-					<div class='blog-post' >
-						<figure>
-							<img src='img/motivation-fit.jpg' alt>
-						</figure>
-						<div class='content' >
-							<h4>100% motivation</h4>
-							<ul class='post-icons' >
-								<li>
-									<i class='ion-ios-person' ></i>
-									<span>Raphael</span>
-								</li>
-								<li>
-									<i class='ion-ios-clock' ></i>
-									<span>14/11/16</span>
-								</li>
-								<li>
-									<i class='ion-ios-pricetag' ></i>
-									<span>Motivation</span>
-								</li>
-							</ul>
-						</div>
-						<p>
-							La motivation est un des facteurs majeur de la réussite en entraînement. Mais cette dernière est difficile à maintenir sur le 
-							long terme. Dans cet article je vous donne les clées pour créer des entraînements motivants qui vous permettrons d'atteindre vos objectifs. Inspirez vous!  
-						</p>
-						<a href='blog-post-2.html' class='read-more' >Lire la suite</a>
-					</div>
-				</li>
-
-				<li>
-					<div class='blog-post' >
-						<figure>
-							<img src='img/wow.jpg' alt>
-						</figure>
-						<div class='content' >
-							<h4>Peut-on localiser notre perte de poids?</h4>
-							<ul class='post-icons' >
-								<li>
-									<i class='ion-ios-person' ></i>
-									<span>Raphael</span>
-								</li>
-								<li>
-									<i class='ion-ios-clock' ></i>
-									<span>15/01/17</span>
-								</li>
-								<li>
-									<i class='ion-ios-pricetag' ></i>
-									<span>Nutrition</span>
-								</li>
-							</ul>
-						</div>
-						<p>
-							Ventre, culotte de cheval, poignées d'amour, cuisse... Toutes des zones du corps ou la graisse a tendance a s'accumuler et s'installer durablement sans notre accord. Mais peut-on cibler nos efforts pour perdre du poids uniquement sur ces zones précises? Cet article y répond! 
-						</p>
-						<a href='blog-post-3.html' class='read-more' >Lire la suite</a>
-					</div>
-				</li>
-
-				<li>
-					<div class='blog-post' >
-						<figure>
-							<img src='img/muscu2.jpg' alt>
-						</figure>
-						<div class='content' >
-							<h4>Mais qu’est-ce que la Musculation pleine conscience?</h4>
-							<ul class='post-icons' >
-								<li>
-									<i class='ion-ios-person' ></i>
-									<span>Raphael</span>
-								</li>
-								<li>
-									<i class='ion-ios-clock' ></i>
-									<span>30/01/17</span>
-								</li>
-								<li>
-									<i class='ion-ios-pricetag' ></i>
-									<span>Musculation</span>
-								</li>
-							</ul>
-						</div>
-						<p>
-							 En musculation, le coté mental a une grande importance. Certaine méthodes permettent une amélioration de performance, de technique, de qualité ... Dans notre cas nous parlerons de la pleine conscience et de sont impact en musculation.
-						</p>
-						<a href='blog-post-4.html' class='read-more' >Lire la suite</a>
-					</div>
-				</li>
-
-				
+				{% endfor %}
 
 			</ul>
 		</div>
