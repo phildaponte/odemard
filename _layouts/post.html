@@ -1,15 +1,37 @@
 ---
 layout: default
 ---
-<div class="post">
+<!--======================================================
+	Person Image
+======================================================-->
+<div class='col-img hidden-xs' style='background-image:url({{ page.img }});' ></div>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<!--======================================================
+	Blog Post
+======================================================-->
+<section id='blog-single' class='section blog-section remain-col active' >
+	<div class='section-block single-post-block' >
+		<div class='container-fluid' >
+			<div class='single-post' >
+			<img src="{{ page.img }}">
+				<em>Posté par <a href='#' class='link' >Raphael</a> 16.10.2016.</em>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+				<h1 class="post-title">{{ page.title }}</h1>
 
-</div>
+				<div class='content' >
+
+					<p class='dropcap' >
+						{{ content }}	
+					</p>
+
+					<!-- full-width-image -->
+
+
+				</div>
+
+				
+
+			</div>
+		</div>
+	</div>
+</section>
