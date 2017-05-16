@@ -9,7 +9,7 @@ media_folder: "/img/uploads" # Media files will be stored in the repo under imag
 
 collections:
   - name: "post"
-    label: "Item Portfolio"
+    label: "Blog Post"
     folder: "_posts"
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
