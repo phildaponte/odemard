@@ -2,7 +2,7 @@
 layout: post
 title: Mais qu’est-ce que la Musculation pleine conscience?
 tag: Forme
-img: /img/uploads/motivation-fit.jpg
+img: /img/uploads/muscu2.jpg
 ---
 À la croyance générale, la musculation est un sport uù la seule action est de pousser de la fonte est toujours plus pesante pour se sculpter un corps de rêve ! Et que la seule connexion de neurones durant une séance est le moment où l’on calcule la charge que l’on a mise sur la barre.
 
@@ -55,3 +55,4 @@ A titre personnel,  cette méthode apporte des sensations très agréables de co
 Un corps performant n’est rien sans un esprit sain !
 
 Référence : Calatayud J, Vinstrup J, Jakobsen MD, Sundstrup E, Brandt M, Jay K, Colado JC and Andersen LL. Importance of mind-muscle connection during progressive resistance training. Eur J Appl Physiol, In Press, 2015.
+
