@@ -1173,6 +1173,13 @@ textarea.form-control{
 	text-align:justify;
 	margin:10px 0;
 }
+
+.single-post > .content >ul{
+	line-height: 1.8em;
+    font-size: 16px;
+    color: rgba(0,0,0,.6);
+}
+
 .single-post .img-left{
 	float:left;
 	margin:10px;
