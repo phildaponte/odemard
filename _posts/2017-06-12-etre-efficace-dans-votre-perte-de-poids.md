@@ -19,7 +19,7 @@ groupes après les 2 programmes d’entrainement.
 
 **- Efforts courts et intenses :** 8’’s de sprint à fond \+ 12’’s de pédalage à faible intensité. Le tout sur 20’min
 
-\*\*- Efforts longs et peux intenses : \*\*40’min à 60% de VO2max  de pédalage.
+**- Efforts longs et peux intenses** : 40’min à 60% de VO2max  de pédalage.
 
 **Résultats :**
 
@@ -36,10 +36,8 @@ Contre  \+0,1 Kg de moyenne pour les efforts de 40’'min.
 
 **Conclusion :**
 
-Les résultats sont sans appel! Dans une optique de perte de masse grasse, la méthode des** efforts intenses et courts** est plus efficaces. De plus, le gain de temps s’associe à l’efficacité !
+Les résultats sont sans appel! Dans une optique de perte de masse grasse, la méthode des\*\* efforts intenses et courts\*\* est plus efficaces. De plus, le gain de temps s’associe à l’efficacité !
 
 Alors a vous d’orientez vos entraînement pour les rendre le plus efficace possible !
 
 À vous de jouer !
-
- 
