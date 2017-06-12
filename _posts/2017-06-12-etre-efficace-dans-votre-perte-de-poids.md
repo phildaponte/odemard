@@ -36,6 +36,8 @@ Contre  \+0,1 Kg de moyenne pour les efforts de 40’'min.
 
 ![null](/img/uploads/19179662_10155392961526460_2078992336_o.jpg)
 
+**HIIE** = Entraînement Haut Intensité Intermittent ; **SSE** = Entraînement continue à intensité constante ; **CONT** = Groupe Contrôle                                                                         
+
 **Conclusion :**
 
 Les résultats sont sans appel ! Dans une optique de perte de masse grasse, la méthode des **efforts intenses et courts** est plus efficaces. De plus, le gain de temps s’associe à l’efficacité !
@@ -43,4 +45,3 @@ Les résultats sont sans appel ! Dans une optique de perte de masse grasse, la m
 Alors a vous d’orientez vos entraînements pour les rendre le plus efficace possible !
 
 À vous de jouer !
-
