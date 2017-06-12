@@ -34,6 +34,8 @@ de 0,13 Kg pour les efforts de 8’’s.
 
 Contre  \+0,1 Kg de moyenne pour les efforts de 40’'min.
 
+![null](/img/uploads/19179662_10155392961526460_2078992336_o.jpg)
+
 **Conclusion :**
 
 Les résultats sont sans appel! Dans une optique de perte de masse grasse, la méthode des **efforts intenses et courts** est plus efficaces. De plus, le gain de temps s’associe à l’efficacité !
