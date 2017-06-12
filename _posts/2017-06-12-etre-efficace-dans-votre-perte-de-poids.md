@@ -43,3 +43,4 @@ Les résultats sont sans appel ! Dans une optique de perte de masse grasse, la m
 Alors a vous d’orientez vos entraînements pour les rendre le plus efficace possible !
 
 À vous de jouer !
+
