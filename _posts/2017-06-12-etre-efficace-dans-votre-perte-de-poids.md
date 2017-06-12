@@ -9,7 +9,7 @@ Mais comment si prendre ? Quelle est la meilleure méthode ? Comment optimiser l
 de masse grâce. Cet article est là pour nous éclairer !
 
 L’étude de Trapp et coll., parue en 1982, a travaillé sur la comparaison de 2 techniques ;
-La méthode des **efforts court et intense** et la méthode des **efforts longs à faible intensité .** Le
+La méthode des **efforts court et intense** et la méthode des **efforts longs à faible intensité.** Le
 but étant de savoir la quelles est la plus efficace en termes de brûlage de graisse !
 
 Les chercheurs ont donc comparé les résultats sur le % de masse grasse corporel des deux
@@ -34,6 +34,8 @@ de 0,13 Kg pour les efforts de 8’’s.
 
 Contre  \+0,1 Kg de moyenne pour les efforts de 40’'min.
 
+![null](/img/uploads/19179662_10155392961526460_2078992336_o.jpg)
+
 **Conclusion :**
 
 Les résultats sont sans appel! Dans une optique de perte de masse grasse, la méthode des **efforts intenses et courts** est plus efficaces. De plus, le gain de temps s’associe à l’efficacité !
@@ -41,4 +43,3 @@ Les résultats sont sans appel! Dans une optique de perte de masse grasse, la m�
 Alors a vous d’orientez vos entraînement pour les rendre le plus efficace possible !
 
 À vous de jouer !
-
