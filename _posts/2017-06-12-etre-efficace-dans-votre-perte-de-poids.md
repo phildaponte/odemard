@@ -4,7 +4,7 @@ title: ETRE EFFICACE DANS VOTRE PERTE DE POIDS
 tag: 'Et si on choisissez le chemin le plus facile pour une fois ? '
 img: /img/uploads/pexels-photo-116078.jpeg
 ---
-L’activité physique est renommée pour être efficace dans les processus de perte de poids.
+## L’activité physique est renommée pour être efficace dans les processus de perte de poids.
 Mais comment si prendre ? Quelle est la meilleure méthode ? Comment optimiser la perte
 de masse grâce. Cet article est là pour nous éclairer !
 
@@ -15,13 +15,13 @@ but étant de savoir laquelle est la plus efficace en terme de brûlage de grais
 Les chercheurs ont donc comparés les résultats sur le % de masse grasse corporel des deux
 groupes après les 2 programmes d’entrainement.
 
-**Protocole :**
+## **Protocole :**
 
 **- Efforts courts et intenses :** 8’’s de sprint à fond \+ 12’’s de pédalage à faible intensité. Le tout sur 20’min
 
 **- Efforts longs et peux intenses** : 40’min à 60% de VO2max  de pédalage.
 
-**Résultats :**
+## **Résultats :**
 
 Après 5 semaines d’entrainement, les sujets à la haute intensité perdent en moyenne 2,4
 kg de graisse sous-cutanée.
@@ -36,12 +36,12 @@ Contre  \+0,1 Kg de moyenne pour les efforts de 40’'min.
 
 ![null](/img/uploads/19179662_10155392961526460_2078992336_o.jpg)
 
-**HIIE** = Entraînement Haut Intensité Intermittent ; **SSE** = Entraînement continue à intensité constante ; **CONT** = Groupe Contrôle                                                                         
+**HIIE** = Entraînement Haut Intensité Intermittent ; **SSE** = Entraînement continue à intensité constante ; **CONT** = Groupe Contrôle
 
-**Conclusion :**
+## **Conclusion :**
 
 Les résultats sont sans appel ! Dans une optique de perte de masse grasse, la méthode des **efforts intenses et courts** est plus efficaces. De plus, le gain de temps s’associe à l’efficacité !
 
 Alors a vous d’orientez vos entraînements pour les rendre le plus efficace possible !
 
-À vous de jouer !
+## À vous de jouer !
