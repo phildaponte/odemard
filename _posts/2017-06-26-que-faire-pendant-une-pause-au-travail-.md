@@ -26,8 +26,6 @@ position 3 à 5 secondes et cela 3 fois. Puis faites tourner dans l’autre sens
 
 ![null](/img/uploads/19512181_1310327719085218_1753709765_n.gif)
 
-
-
 Tenir les doigts de sa main avec son autre main, pliez lentement jusqu’à étirement. Maintenir 3 à 5
 secondes. Répétez le mouvement 3 fois. Puis répétez l’opération dans l’autre sens.
 
@@ -35,3 +33,21 @@ secondes. Répétez le mouvement 3 fois. Puis répétez l’opération dans l’
 
 Assis, les coudes sur la table, paumes jointes, abaissez vos poignets sur la table jusqu’à étirement.
 Bien garder les paumes jointes, maintenir la position 5 à 7 secondes, répéter le mouvement 3 fois.
+
+![null](/img/uploads/19264813_1310327712418552_1278617014_n.gif)
+
+## ÉTIREMENT DU COU ET DES ÉPAULES
+
+
+Levez vos épaules jusqu’à une tension dans le cou et les épaules. Maintenir la position 3 à 5 secondes.
+Relâchez-vous puis recommencez 3 fois.
+
+Droit, sans lever le menton, glissez la tête vers l’arrière. Maintenir la position pendant 20 secondes et
+répéter le mouvement 5 à 10 fois.
+
+Penchez votre tête de façon à toucher votre épaule avec votre oreille. Faites le mouvement de
+l’autre côté. Baissez lentement le menton vers la poitrine. Effectuez une rotation complète de la tête.
+
+Roulez les épaules vers l’arrière 5 fois, dans un mouvement circulaire. Répétez vers l’avant.
+
+Placez les mains derrière la tête et serrez les omoplates ensemble. 
