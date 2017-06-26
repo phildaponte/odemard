@@ -39,12 +39,14 @@ Bien garder les paumes jointes, maintenir la position 5 à 7 secondes, répéter
 Levez vos épaules jusqu’à une tension dans le cou et les épaules. Maintenir la position 3 à 5 secondes.
 Relâchez-vous puis recommencez 3 fois.
 
+![null](/img/uploads/Capture.JPG)
+
 Droit, sans lever le menton, glissez la tête vers l’arrière. Maintenir la position pendant 20 secondes et
 répéter le mouvement 5 à 10 fois.
 
 Penchez votre tête de façon à toucher votre épaule avec votre oreille. Faites le mouvement de
-l’autre côté. Baissez lentement le menton vers la poitrine. Effectuez une rotation complète de la tête. 
+l’autre côté. Baissez lentement le menton vers la poitrine. Effectuez une rotation complète de la tête.
 
-Roulez les épaules vers l’arrière 5 fois, dans un mouvement circulaire. Répétez vers l’avant. 
+Roulez les épaules vers l’arrière 5 fois, dans un mouvement circulaire. Répétez vers l’avant.
 
-Placez les mains derrière la tête et serrez les omoplates ensemble. 
+Placez les mains derrière la tête et serrez les omoplates ensemble.
