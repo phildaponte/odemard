@@ -34,7 +34,7 @@ secondes. Répétez le mouvement 3 fois. Puis répétez l’opération dans l’
 Assis, les coudes sur la table, paumes jointes, abaissez vos poignets sur la table jusqu’à étirement.
 Bien garder les paumes jointes, maintenir la position 5 à 7 secondes, répéter le mouvement 3 fois.
 
-ÉTIREMENT DU COU ET DES ÉPAULES
+## ÉTIREMENT DU COU ET DES ÉPAULES
 
 Levez vos épaules jusqu’à une tension dans le cou et les épaules. Maintenir la position 3 à 5 secondes.
 Relâchez-vous puis recommencez 3 fois.
@@ -58,5 +58,3 @@ Roulez les épaules vers l’arrière 5 fois, dans un mouvement circulaire. Rép
 Placez les mains derrière la tête et serrez les omoplates ensemble.
 
 ![null](/img/uploads/Capture4.JPG)
-
-
