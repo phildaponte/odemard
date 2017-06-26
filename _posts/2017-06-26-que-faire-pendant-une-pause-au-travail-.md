@@ -98,6 +98,6 @@ légère pression, tout en regardant la direction opposée. Répétez avec l’a
 
 ![null](/img/uploads/Capture10.JPG)
 
-Après avoir effectuer l’ensemble des exercices, prenez 3 grands cycles d’inspiration / expiration profonds et vous êtes reparti pour affronter le reste de la journée ! Essayez et vous verrez !
+                                                                                                                                            Après avoir effectuer l’ensemble des exercices, prenez 3 grands cycles d’inspiration / expiration profonds et vous êtes reparti pour affronter le reste de la journée ! Essayez et vous verrez !
 
-À vous de jouer ! 
+À vous de jouer !
