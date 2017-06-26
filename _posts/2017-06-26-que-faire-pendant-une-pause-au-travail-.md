@@ -44,9 +44,58 @@ Relâchez-vous puis recommencez 3 fois.
 Droit, sans lever le menton, glissez la tête vers l’arrière. Maintenir la position pendant 20 secondes et
 répéter le mouvement 5 à 10 fois.
 
+![null](/img/uploads/Capture 1.JPG)
+
 Penchez votre tête de façon à toucher votre épaule avec votre oreille. Faites le mouvement de
 l’autre côté. Baissez lentement le menton vers la poitrine. Effectuez une rotation complète de la tête.
 
+![null](/img/uploads/Capture 2.JPG)
+
 Roulez les épaules vers l’arrière 5 fois, dans un mouvement circulaire. Répétez vers l’avant.
 
+![null](/img/uploads/Capture3.JPG)
+
 Placez les mains derrière la tête et serrez les omoplates ensemble.
+
+![null](/img/uploads/Capture4.JPG)
+
+## ÉTIREMENT DU DOS, FLANCS ET JAMBES
+
+Entrelacez vos doigts et étirez les bras au-dessus de la tête (coudes droits) et poussez vers l’arrière
+le plus loin possible. Inclinez votre tronc vers la gauche puis la droite. (1).
+Nous pouvons aussi les ramener vers l’avant (2) ou derrière pour étirer les omoplates et la poitrine
+\(3)
+
+![null](/img/uploads/19495910_1310405392410784_209330703_o.jpg)
+
+Tenez votre coude droit avec votre main gauche. Poussez votre coude vers l’épaule gauche.
+Maintenir 5 secondes. Répétez avec le bras gauche.
+
+![null](/img/uploads/Capture5.JPG)
+
+Saisissez le tibia et soulevez votre jambe. Penchez vous vers l’avant. Répétez l’exercice avec l’autre
+jambe. 
+
+![null](/img/uploads/Capture6.JPG)
+
+Soulevez votre pied et faites des flexions de la cheville (orteils vers le haut, puis vers le sol). Répétez
+avec l’autre jambe.
+
+![null](/img/uploads/Capture7.JPG)
+
+Asseyez-vous sur votre chaise sans toucher le dossier, pieds à plat au sol. Levez un pied et maintenez
+quelques secondes la position. Reposez votre pied, recommencer avec l’autre jambe.
+
+![null](/img/uploads/Capture8.JPG)
+
+Debout, les genoux légèrement pliés. Placez vos mains sur le bas du dos et poussez doucement vers
+l’avant, tout en courbant le dos vers l’arrière. 
+
+![null](/img/uploads/Capture9.JPG)
+
+Assis, croisez vos jambes. Placez le coude opposé sur l’extérieur de la jambe croisée. Exercez une
+légère pression, tout en regardant la direction opposée. Répétez avec l’autre jambe.
+
+![null](/img/uploads/Capture10.JPG)
+
+
