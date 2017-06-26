@@ -71,17 +71,31 @@ Nous pouvons aussi les ramener vers l’avant (2) ou derrière pour étirer les 
 Tenez votre coude droit avec votre main gauche. Poussez votre coude vers l’épaule gauche.
 Maintenir 5 secondes. Répétez avec le bras gauche.
 
+![null](/img/uploads/Capture5.JPG)
+
 Saisissez le tibia et soulevez votre jambe. Penchez vous vers l’avant. Répétez l’exercice avec l’autre
-jambe.
+jambe. 
+
+![null](/img/uploads/Capture6.JPG)
 
 Soulevez votre pied et faites des flexions de la cheville (orteils vers le haut, puis vers le sol). Répétez
 avec l’autre jambe.
 
+![null](/img/uploads/Capture7.JPG)
+
 Asseyez-vous sur votre chaise sans toucher le dossier, pieds à plat au sol. Levez un pied et maintenez
 quelques secondes la position. Reposez votre pied, recommencer avec l’autre jambe.
 
+![null](/img/uploads/Capture8.JPG)
+
 Debout, les genoux légèrement pliés. Placez vos mains sur le bas du dos et poussez doucement vers
-l’avant, tout en courbant le dos vers l’arrière.
+l’avant, tout en courbant le dos vers l’arrière. 
+
+![null](/img/uploads/Capture9.JPG)
 
 Assis, croisez vos jambes. Placez le coude opposé sur l’extérieur de la jambe croisée. Exercez une
-légère pression, tout en regardant la direction opposée. Répétez avec l’autre jambe. 
+légère pression, tout en regardant la direction opposée. Répétez avec l’autre jambe.
+
+![null](/img/uploads/Capture10.JPG)
+
+
