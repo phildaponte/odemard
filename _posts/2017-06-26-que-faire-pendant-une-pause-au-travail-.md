@@ -4,7 +4,7 @@ title: 'Que faire pendant une pause au travail? '
 tag: Comment améliorer sa vie au travail !
 img: /img/uploads/work-management-time-management-office-working.jpg
 ---
-Peu importe votre travail, les pauses son toujours la bien venu. Mais que faire pour optimiser ces petits temps ? Je vous propose ici une routine d’étirement, faisable partout, qui vous permettra d’éliminer les tensions inutiles, d’augmenter votre circulation sanguine, redonner un peu de souplesse à vos muscles pour repartir à 100% dans votre journée!
+Peu importe votre travail, les pauses son toujours la bienvenu. Mais que faire pour optimiser ces petits temps ? Je vous propose ici une routine d’étirement, faisable partout, qui vous permettra d’éliminer les tensions inutiles, d’augmenter votre niveau d’énergie et redonner un peu de souplesse à vos muscles pour repartir à 100% dans votre journée!
 
 ## ÉTIREMENTS DES MAINS ET AVANT-BRAS
 
@@ -101,5 +101,3 @@ légère pression, tout en regardant la direction opposée. Répétez avec l’a
 Après avoir effectuer l’ensemble des exercices, prenez 3 grands cycles d’inspiration / expiration profonds et vous êtes reparti pour affronter le reste de la journée ! Essayez et vous verrez !
 
 À vous de jouer !
-
-
