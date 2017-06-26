@@ -34,7 +34,7 @@ secondes. Répétez le mouvement 3 fois. Puis répétez l’opération dans l’
 Assis, les coudes sur la table, paumes jointes, abaissez vos poignets sur la table jusqu’à étirement.
 Bien garder les paumes jointes, maintenir la position 5 à 7 secondes, répéter le mouvement 3 fois.
 
-ÉTIREMENT DU COU ET DES ÉPAULES
+## ÉTIREMENT DU COU ET DES ÉPAULES
 
 Levez vos épaules jusqu’à une tension dans le cou et les épaules. Maintenir la position 3 à 5 secondes.
 Relâchez-vous puis recommencez 3 fois.
@@ -74,7 +74,7 @@ Maintenir 5 secondes. Répétez avec le bras gauche.
 ![null](/img/uploads/Capture5.JPG)
 
 Saisissez le tibia et soulevez votre jambe. Penchez vous vers l’avant. Répétez l’exercice avec l’autre
-jambe. 
+jambe.
 
 ![null](/img/uploads/Capture6.JPG)
 
@@ -89,7 +89,7 @@ quelques secondes la position. Reposez votre pied, recommencer avec l’autre ja
 ![null](/img/uploads/Capture8.JPG)
 
 Debout, les genoux légèrement pliés. Placez vos mains sur le bas du dos et poussez doucement vers
-l’avant, tout en courbant le dos vers l’arrière. 
+l’avant, tout en courbant le dos vers l’arrière.
 
 ![null](/img/uploads/Capture9.JPG)
 
@@ -98,4 +98,6 @@ légère pression, tout en regardant la direction opposée. Répétez avec l’a
 
 ![null](/img/uploads/Capture10.JPG)
 
+Après avoir effectuer l’ensemble des exercices, prenez 3 grands cycles d’inspiration / expiration profonds et vous êtes reparti pour affronter le reste de la journée ! Essayez et vous verrez !
 
+À vous de jouer ! 
