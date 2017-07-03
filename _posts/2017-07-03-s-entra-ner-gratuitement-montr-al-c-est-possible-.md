@@ -6,6 +6,8 @@ tag: >-
   plus proche de chez vous! 
 img: /img/uploads/25048613499_103d8abd0d_b.jpg
 ---
+## Lutter contre la sédentarité !
+
 Parmi les excuses le plus couramment utilisé par les non sportifs nous avons :
 
 * Pas assez de temps
@@ -31,6 +33,8 @@ Plus aucune excuse pour aller vous entraîner cet été!
 
 Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréal ! À vous de trouver le votre !
 
+## Forcément un près de chez vous !
+
 1- Parc Caron : 700 Rue Muir, Saint Laurent
 
 2- Complexe Sportif Claude-Robillard : 1000 Avenue Emile-Journault
@@ -41,9 +45,7 @@ Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréa
 
 5- Campus IUSMM 7315 Rue de Marseille, Montréal, QC H1N 0B2
 
-6- Parc Médéric-Martin
-
-7- Parc Sir-Wilfrid-Laurier : Rue de Mentana & Avenue Laurier E.
+6- Parc Médéric-Martin7- Parc Sir-Wilfrid-Laurier : Rue de Mentana & Avenue Laurier E.
 
 8- Parc Toussaint-Louverture : 137 Boulevard de Maisonneuve E
 
@@ -51,6 +53,4 @@ Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréa
 
 10- Parc Monseigneur- J.- A. Richard : Boulevard LaSalle, Verdun
 
-![null](/img/uploads/19688428_1316627061788617_1644951970_o.jpg)
-
-
+![null](/img/uploads/19688428_1316627061788617_1644951970_o.jpg)À vous de jouer ! 
