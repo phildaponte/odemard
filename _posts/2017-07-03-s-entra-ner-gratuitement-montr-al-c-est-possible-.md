@@ -10,17 +10,14 @@ img: /img/uploads/25048613499_103d8abd0d_b.jpg
 
 Parmi les excuses le plus couramment utilisées par les non-sportifs, nous avons :
 
-- Pas assez de temps
-
-- Trop cher pour moi
-
-- Je n’aime pas les gyms, je préfère le plein air
-
-- Je n’y connais rien, je ne sais pas quoi faire
+* Pas assez de temps
+* Trop cher pour moi
+* Je n’aime pas les gyms, je préfère le plein air
+* Je n’y connais rien, je ne sais pas quoi faire
 
 La compagnie TREKFIT et la ville de Montréal ont trouvé une alternative à tous ces problèmes!
 
-Effectivement de nombreuses installations ont vu le jour dans les parcs de notre belle ville. Ces dernières sont composées de plusieurs types de modules prévus pour entrainement physique. Cela va des barres parallèles aux appareils de musculation, jusqu’au franchissement d’obstacles!
+Effectivement de nombreuses installations ont vu le jour dans les parcs de notre belle ville. Ces dernières sont composées de plusieurs types de modules prévus pour l’entrainement physique. Cela va des barres parallèles aux appareils de musculation, jusqu’au franchissement d’obstacles!
 
 Avec ce type de structures, plus aucune chance de ne pas s’entraîner !
 
@@ -28,7 +25,7 @@ Vous trouverez forcément un gym urbain près de chez vous, ce qui vous enlèver
 
 Plus de problème d’argent, ils sont gratuits !
 
-Vous n’aimez aller vous enfermer à l’intérieur ? Parfait, ils sont uniquement en plein air !
+Vous n’aimez pas aller vous enfermer à l’intérieur ? Parfait, ils sont uniquement en plein air !
 
 Vous ne savez pas comment utiliser les modules et quels exercices faire ? Raison de plus ! Chaque installation est équipée de panneaux vous expliquant que faire selon votre niveau et vos besoins !
 
