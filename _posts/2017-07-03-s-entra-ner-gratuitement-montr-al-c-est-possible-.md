@@ -25,11 +25,11 @@ Plus de problème d’argent, ils sont gratuits !
 
 Vous n’aimez aller vous enfermer à l’intérieur ? parfait ils sont uniquement en plein air !
 
-Vous ne savez pas comment utiliser les modules et quels exercices faire ? Raison de plus ! Chaque installation est équipé de panneaux vous expliquant que faire selon votre niveau et vos besoins ! 
+Vous ne savez pas comment utiliser les modules et quels exercices faire ? Raison de plus ! Chaque installation est équipé de panneaux vous expliquant que faire selon votre niveau et vos besoins !
 
-Plus aucune excuse pour aller vous entraîner cet été! 
+Plus aucune excuse pour aller vous entraîner cet été!
 
-Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréal ! À vous de trouver le votre ! 
+Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréal ! À vous de trouver le votre !
 
 1- Parc Caron : 700 Rue Muir, Saint Laurent
 
@@ -49,6 +49,8 @@ Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréa
 
 9- Parc Jean Drapeau, Montréal, QC H3C 4G8
 
+10- Parc Monseigneur- J.- A. Richard : Boulevard LaSalle, Verdun
+
 ![null](/img/uploads/19688428_1316627061788617_1644951970_o.jpg)
 
-10- Parc Monseigneur- J.- A. Richard : Boulevard LaSalle, Verdun
+
