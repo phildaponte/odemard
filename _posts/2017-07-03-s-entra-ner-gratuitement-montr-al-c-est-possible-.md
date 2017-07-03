@@ -8,30 +8,33 @@ img: /img/uploads/25048613499_103d8abd0d_b.jpg
 ---
 ## Lutter contre la sédentarité !
 
-Parmi les excuses le plus couramment utilisé par les non sportifs nous avons :
+Parmi les excuses le plus couramment utilisées par les non-sportifs, nous avons :
 
-* Pas assez de temps
-* Trop chère pour moi
-* J’aime pas les gym, je préfère le plein air
-* J’y connais rien, je sais pas quoi faire
+- Pas assez de temps
 
-La compagnie TREKFIT et la ville de Montréal ont trouvés une alternative à tout ces problèmes!
+- Trop cher pour moi
 
-Effectivement de nombreuses installations ont vu le jours dans les parcs de notre belle ville. Ces dernières sont composées de plusieurs types de modules prévue pour entrainement physique. Cela va des barres parallèles aux appareils de musculation, jusqu’au franchissement d’obstacles!
+- Je n’aime pas les gyms, je préfère le plein air
 
-Avec ce types de structures, plus aucune chance de ne pas s’entraîner !
+- Je n’y connais rien, je ne sais pas quoi faire
 
-Vous trouverez forcement une gym urbain près de chez vous, ce qui vous enlèvera tout problème de temps.
+La compagnie TREKFIT et la ville de Montréal ont trouvé une alternative à tous ces problèmes!
+
+Effectivement de nombreuses installations ont vu le jour dans les parcs de notre belle ville. Ces dernières sont composées de plusieurs types de modules prévus pour entrainement physique. Cela va des barres parallèles aux appareils de musculation, jusqu’au franchissement d’obstacles!
+
+Avec ce type de structures, plus aucune chance de ne pas s’entraîner !
+
+Vous trouverez forcément un gym urbain près de chez vous, ce qui vous enlèvera tout problème de temps.
 
 Plus de problème d’argent, ils sont gratuits !
 
-Vous n’aimez aller vous enfermer à l’intérieur ? parfait ils sont uniquement en plein air !
+Vous n’aimez aller vous enfermer à l’intérieur ? Parfait, ils sont uniquement en plein air !
 
-Vous ne savez pas comment utiliser les modules et quels exercices faire ? Raison de plus ! Chaque installation est équipé de panneaux vous expliquant que faire selon votre niveau et vos besoins !
+Vous ne savez pas comment utiliser les modules et quels exercices faire ? Raison de plus ! Chaque installation est équipée de panneaux vous expliquant que faire selon votre niveau et vos besoins !
 
 Plus aucune excuse pour aller vous entraîner cet été!
 
-Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréal ! À vous de trouver le votre !
+Pour vous aider, je vous ai répertorié les 10 meilleurs Gyms urbains à Montréal ! À vous de trouver le vôtre !
 
 ## Forcément un près de chez vous !
 
@@ -53,4 +56,4 @@ Pour vous aider, je vous ai répertorié les 10 meilleurs Gym Urbain à Montréa
 
 10- Parc Monseigneur- J.- A. Richard : Boulevard LaSalle, Verdun
 
-![null](/img/uploads/19688428_1316627061788617_1644951970_o.jpg)À vous de jouer ! 
+![null](/img/uploads/19688428_1316627061788617_1644951970_o.jpg)À vous de jouer !
