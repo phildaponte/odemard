@@ -24,10 +24,11 @@ moyenne 2,3 kilogrammes de plus que le groupe qui avait bu de l’eau avec modé
 ## 
 
 # NOS CINQ RÈGLES POUR BIEN MAIGRIR EN
+
 BUVANT DE L’EAU :
 
-**1)** **Boire environ 2 verres d’eau 20-30 minutes avant chaque repas :
-**L’eau réduit la faim c’est fait, donc réduire vos calories et ainsi diminuer votre masse
+**1)** \*\*Boire environ 2 verres d’eau 20-30 minutes avant chaque repas :
+\*\*L’eau réduit la faim c’est fait, donc réduire vos calories et ainsi diminuer votre masse
 au fur et à mesure.
 Il est recommandé de boire au minimum deux verres d’eau environ 30 minutes avant
 chaque repas majeurs (petit déjeuner – déjeuner – dîner)
@@ -58,7 +59,7 @@ car les différentes substances qu’elles comportent ne permettent pas
 à notre organisme d’en tirer toutes les vertus de l’eau. Donc avant de boire n’importe quelle autre boisson demandez-vous si vous avez
 d’abord bien bu vos 2 Litres d’eau (par jour).
 
-**PS : **Si vous trouvez que l’eau manque de goût et que vous avez pour habitude d’y
+**PS :** Si vous trouvez que l’eau manque de goût et que vous avez pour habitude d’y
 ajouter certaines substances (comme du sirop) pour lui donner du goût, préférez y
 ajouter du jus de citron, du jus d’ananas, des feuilles de menthe, ou d’autres fruits
 frais.
@@ -71,7 +72,8 @@ pas risquer de créer de mauvaise surprise au niveau de l’estomac !
 Même si ces deux eaux sont naturelles et qu’elles sont toutes les deux bonnes pour
 la santé, il est préférable de privilégier l’eau plate.
 Consommée en trop grande quantité, l’eau pétillante **peut provoquer des
-problèmes d’estomac **: rôts, flatulences, distension abdominale…
+problèmes d’estomac :** rôts, flatulences, distension abdominale…
 Ceci dit, l’eau gazeuse est plus efficace que l’eau plate pour couper la faim.
 
 **Je vous conseille donc d’avoir les deux à portée de main**
+
