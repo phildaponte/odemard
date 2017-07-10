@@ -21,14 +21,11 @@ jour.
 Au cours des douze semaines, le groupe qui avait consommé plus d’eau avait perdu en
 moyenne 2,3 kilogrammes de plus que le groupe qui avait bu de l’eau avec modération.
 
-## 
-
 # NOS CINQ RÈGLES POUR BIEN MAIGRIR EN
 
 BUVANT DE L’EAU :
 
-**1)** \*\*Boire environ 2 verres d’eau 20-30 minutes avant chaque repas :
-\*\*L’eau réduit la faim c’est fait, donc réduire vos calories et ainsi diminuer votre masse
+**1)** **Boire environ 2 verres d’eau 20-30 minutes avant chaque repas :** L’eau réduit la faim c’est fait, donc réduire vos calories et ainsi diminuer votre masse
 au fur et à mesure.
 Il est recommandé de boire au minimum deux verres d’eau environ 30 minutes avant
 chaque repas majeurs (petit déjeuner – déjeuner – dîner)
@@ -76,4 +73,3 @@ problèmes d’estomac :** rôts, flatulences, distension abdominale…
 Ceci dit, l’eau gazeuse est plus efficace que l’eau plate pour couper la faim.
 
 **Je vous conseille donc d’avoir les deux à portée de main**
-
