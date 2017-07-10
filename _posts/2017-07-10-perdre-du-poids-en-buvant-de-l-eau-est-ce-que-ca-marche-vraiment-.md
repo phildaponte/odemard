@@ -25,7 +25,7 @@ moyenne 2,3 kilogrammes de plus que le groupe qui avait bu de l’eau avec modé
 
 BUVANT DE L’EAU :
 
-**1)** **Boire environ 2 verres d’eau 20-30 minutes avant chaque repas :** L’eau réduit la faim c’est fait, donc réduire vos calories et ainsi diminuer votre masse
+**1) Boire environ 2 verres d’eau 20-30 minutes avant chaque repas : **L’eau réduit la faim c’est fait, donc réduire vos calories et ainsi diminuer votre masse
 au fur et à mesure.
 Il est recommandé de boire au minimum deux verres d’eau environ 30 minutes avant
 chaque repas majeurs (petit déjeuner – déjeuner – dîner)
