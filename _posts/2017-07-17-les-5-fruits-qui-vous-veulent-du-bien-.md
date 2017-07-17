@@ -1,12 +1,15 @@
 ---
 layout: post
 title: LES 5 FRUITS QUI VOUS VEULENT DU BIEN !
-tag: fd
+tag: >-
+  L'apport quotidien de fruit est un facteur très important dans notre santé
+  général. Mais il devient encore plus important durant une perte de poids!
+  Voici 5 fruits parfait pour un tel processus! 
 img: /img/uploads/fruits-sweet-fruit-exotic-pineapple.jpg
 ---
-On entend souvent «Pour être en bonne santé, mangez 5 fruits et légumes
+*On entend souvent «Pour être en bonne santé, mangez 5 fruits et légumes
 par jour »… Mais y a t’il une différence entre ces derniers? Doit-on privilégier certains d’eux? Nous allons vous aider à rester en santé avec notre
-top 5 des fruits à valoriser lors d’une perte de poids! Pauvres en calories et riche en nutriments et vitamines, ils sont à intégrer dans votre alimentation !
+top 5 des fruits à valoriser lors d’une perte de poids! Pauvres en calories et riche en nutriments et vitamines, ils sont à intégrer dans votre alimentation !*
 
 ## La Grenade:
 
