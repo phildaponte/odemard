@@ -6,12 +6,12 @@ img: /img/uploads/fruits-sweet-fruit-exotic-pineapple.jpg
 ---
 On entend souvent «Pour être en bonne santé, mangez 5 fruits et légumes
 par jour »… Mais y a t’il une différence entre ces derniers? Doit-on privilégier certains d’eux? Nous allons vous aider à rester en santé avec notre
-top 5 des fruits à valoriser lors d’une perte de poids! Pauvres en calories et riche en nutriments et vitamines, ils sont à intégrer dans votre alimentation ! 
+top 5 des fruits à valoriser lors d’une perte de poids! Pauvres en calories et riche en nutriments et vitamines, ils sont à intégrer dans votre alimentation !
 
 ## La Grenade:
 
 La grenade est l’un des fruits les plus efficaces pour la perte de poids. Ses graines sont très riches en nutriments. Elle permet de **réduire votre
-taux de cholestérol **ainsi que de perdre énormément de graisse, car elle
+taux de cholestérol** ainsi que de perdre énormément de graisse, car elle
 s’attaque à celle-ci avant qu’elle n’ait le temps de se loger dans les tissus.
 En effet, la grenade contient de l’acide linoléique, des antioxydants et des
 polyphénols qui **stimulent le métabolisme et aident à brûler les graisses**. De plus,
@@ -52,6 +52,6 @@ ne contient que 50 calories pour 100g, autant ne dire quasiment rien.
 
 PS : Bien
 évidemment la liste est non exhaustive ! À ces cinq fruits nous pourrions
-ajouter : l’Abricot, l’Orange, les Framboises, le Melon, les Fraises … et tout autre fruit en général ! 
+ajouter : l’Abricot, l’Orange, les Framboises, le Melon, les Fraises … et tout autre fruit en général !
 
-Enjoy ! 
+## Enjoy !
