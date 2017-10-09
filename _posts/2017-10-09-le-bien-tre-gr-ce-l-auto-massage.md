@@ -1,8 +1,11 @@
 ---
 layout: post
 title: 'Le bien être grâce à l''auto-massage  '
-tag: h
-img: /img/uploads/Scan du logo 2.jpg
+tag: >-
+  Besoin de te détendre, de soulager des tensions, améliorer des performances
+  sportive, ta récupération ou juste rechercher le bien être. Voici une
+  technique que tu devrais apprécier !
+img: /img/uploads/spa-1979704_1280.jpg
 ---
 ## Qu’est-ce que l’auto-massage ?
 
@@ -38,3 +41,4 @@ Autant avant l’activité ou après, l’auto-massage apporte beaucoup d’avan
 Aucune raison de ne pas s’équiper de ce genre de matériel à la maison ou au bureau !
 
 ## À vous de jouer ! 
+
