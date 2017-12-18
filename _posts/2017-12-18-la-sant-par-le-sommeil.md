@@ -14,10 +14,7 @@ de leurs moyens» José Haba-Rubio.
 
 Mais ce
 rythme de vie effréné peut entraîner un manque de repos et des répercussions graves
-sur la santé… 
-
-
-
+sur la santé…
 
 # Mais pourquoi dort-on?
 
@@ -88,6 +85,11 @@ prédominant dans la santé et le développement humain !
 * Investir dans une
   literie de qualité
 
-Conclusion :
+Bien trop souvent négligé dans notre mode de
+vie, le sommeil est d’une importance cruciale pour maintenir une bonne santé. Il
+permet de régénérer l’organisme après les attaques et les dépenses de notre vie
+quotidienne, autant mental que physique. Dans une quête de perte de poids,
+prisse de masse musculaire, ou de bien-être général, le sommeil et un acteur
+primordial. Prenez le en compte dans votre journée! 
 
-Le sommeil est strictement essentiel pour être en bonne santé. Il permet de 
+# À vous de jouer !
