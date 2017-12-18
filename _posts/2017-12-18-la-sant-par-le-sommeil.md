@@ -26,78 +26,58 @@ prédominant dans la santé et le développement humain !
 
 # Les risques d’un mauvais sommeil :
 
-- État de fatigue,
-mental et physique (perte de performance) 
-
-- Augmentation des
-états de stress et d’anxiété 
-
-- Risque d’hypertension
-
-- Maladie cardiovasculaire
-
-- Diabète
-
-- Prise de poids
-
-- Irritabilité
-
-- Troubles de l’humeur
-
-- Dépression   
-
-- Troubles des mémoires
-
-- Problèmes de développement chez l’enfant et l’adolescent
-\(croissance, capacités intellectuelles...) 
-
-- Troubles psychologiques
-
-- Système immunitaire
-moins performant (état malade régulier)
-
-- Baisse du niveau de
-santé général
+* État de fatigue,
+  mental et physique (perte de performance)
+* Augmentation des
+  états de stress et d’anxiété
+* Risque d’hypertension
+* Maladie cardiovasculaire
+* Diabète
+* Prise de poids
+* Irritabilité
+* Troubles de l’humeur
+* Dépression
+* Troubles des mémoires
+* Problèmes de développement chez l’enfant et l’adolescent
+  \(croissance, capacités intellectuelles...)
+* Troubles psychologiques
+* Système immunitaire
+  moins performant (état malade régulier)
+* Baisse du niveau de
+  santé général
 
 # Améliorer son sommeil :
 
--         
-Limiter les boissons excitantes
-\(café, thé, boisson énergisante…) durant la journée
+- Limiter les
+boissons excitantes (café, thé, boisson énergisante…) durant la journée
 
--         
-Éviter toute activité stimulante
-avant d’aller dormir (sport, musique rythmée, rire...) et privilégier les
-activités calmes (méditation, lecture…)
+- Éviter toute
+activité stimulante avant d’aller dormir (sport, musique rythmée, rire...) et privilégier
+les activités calmes (méditation, lecture…) 
 
--         
-Programmer et respecter une heure
-de réveil  et de coucher TOUS les jours
+- Programmer et
+respecter une heure de réveil  et de
+coucher TOUS les jours 
 
--         
-Dormir en moyenne 8h par nuit !
-\(cela est propre à chacun, mais relativement proche de 8h)
+- Dormir en moyenne
+8h par nuit ! (cela est propre à chacun, mais relativement proche de 8h)
 
--         
-Une alimentation équilibrée, avec
-des repas ni trop lourds ni trop légers le soir et a des horaires constants.
+- Une alimentation
+équilibrée, avec des repas ni trop lourds ni trop légers le soir et a des
+horaires constants. 
 
--         
-Créer une ambiance calme et
-reposante (lumière tamisé, musique douce…)
+- Créer une ambiance
+calme et reposante (lumière tamisé, musique douce…)
 
--         
-Stopper l’alcool et la cigarette
+- Stopper l’alcool et
+la cigarette 
 
--         
-Éviter tous écrans (Smartphone,
-tablette, ordinateur…)
+- Éviter tous écrans
+\(Smartphone, tablette, ordinateur…) 
 
--         
-Faire une liste des choses à faire
-et à ne pas oublier le lendemain, pour éviter d’y penser et créer une tension
-nerveuse qui va produire des difficultés à l’endormissement.
+- Faire une liste des
+choses à faire et à ne pas oublier le lendemain, pour éviter d’y penser et
+créer une tension nerveuse qui va produire des difficultés à l’endormissement. 
 
--         
-Investir dans une literie de
-qualité
+- Investir dans une
+literie de qualité
