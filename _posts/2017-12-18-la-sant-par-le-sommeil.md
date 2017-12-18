@@ -4,7 +4,22 @@ title: 'La santé par le sommeil '
 tag: j
 img: /img/uploads/autumnal-childs-boys.jpg
 ---
-# Pourquoi le dort-on?
+Actuellement,
+notre sommeil est devenu un acteur secondaire dans nos modes de vie de plus en
+plus trépidants. Le travail, les transports, les loisirs dictent le rythme,
+laissant de moins en moins de place au sommeil. «Un tiers des personnes qui
+travaillent déclarent dormir moins de 6 heures par nuit, alors que la plupart
+des adultes ont besoin de sept voire huit heures pour être en pleine possession
+de leurs moyens» José Haba-Rubio.
+
+Mais ce
+rythme de vie effréné peut entraîner un manque de repos et des répercussions graves
+sur la santé… 
+
+
+
+
+# Mais pourquoi dort-on?
 
 Le sommeil et un état dans lequel l’organisme
 plonge pour se régénérer.
@@ -48,36 +63,31 @@ prédominant dans la santé et le développement humain !
 
 # Améliorer son sommeil :
 
-- Limiter les
-boissons excitantes (café, thé, boisson énergisante…) durant la journée
+* Limiter les
+  boissons excitantes (café, thé, boisson énergisante…) durant la journée
+* Éviter toute
+  activité stimulante avant d’aller dormir (sport, musique rythmée, rire...) et privilégier
+  les activités calmes (méditation, lecture…)
+* Programmer et
+  respecter une heure de réveil  et de
+  coucher TOUS les jours
+* Dormir en moyenne
+  8h par nuit ! (cela est propre à chacun, mais relativement proche de 8h)
+* Une alimentation
+  équilibrée, avec des repas ni trop lourds ni trop légers le soir et a des
+  horaires constants.
+* Créer une ambiance
+  calme et reposante (lumière tamisé, musique douce…)
+* Stopper l’alcool et
+  la cigarette
+* Éviter tous écrans
+  \(Smartphone, tablette, ordinateur…)
+* Faire une liste des
+  choses à faire et à ne pas oublier le lendemain, pour éviter d’y penser et
+  créer une tension nerveuse qui va produire des difficultés à l’endormissement.
+* Investir dans une
+  literie de qualité
 
-- Éviter toute
-activité stimulante avant d’aller dormir (sport, musique rythmée, rire...) et privilégier
-les activités calmes (méditation, lecture…) 
+Conclusion :
 
-- Programmer et
-respecter une heure de réveil  et de
-coucher TOUS les jours 
-
-- Dormir en moyenne
-8h par nuit ! (cela est propre à chacun, mais relativement proche de 8h)
-
-- Une alimentation
-équilibrée, avec des repas ni trop lourds ni trop légers le soir et a des
-horaires constants. 
-
-- Créer une ambiance
-calme et reposante (lumière tamisé, musique douce…)
-
-- Stopper l’alcool et
-la cigarette 
-
-- Éviter tous écrans
-\(Smartphone, tablette, ordinateur…) 
-
-- Faire une liste des
-choses à faire et à ne pas oublier le lendemain, pour éviter d’y penser et
-créer une tension nerveuse qui va produire des difficultés à l’endormissement. 
-
-- Investir dans une
-literie de qualité
+Le sommeil est strictement essentiel pour être en bonne santé. Il permet de 
