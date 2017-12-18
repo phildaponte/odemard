@@ -19,7 +19,7 @@ sur la santé…
 # Mais pourquoi dort-on?
 
 Le sommeil et un état dans lequel l’organisme
-plonge pour se** régénérer.**
+plonge pour se **régénérer**.
 
 Au niveau mental, le cerveau est exposé -pendant les
 périodes d’éveils-  à de multiples
@@ -86,11 +86,11 @@ prédominant dans **la santé et le développement humain !**
   literie de qualité
 
 Bien trop souvent négligé dans notre mode de
-vie, le sommeil est d’une **importance cruciale **pour maintenir une bonne santé. Il
+vie, le sommeil est d’une **importance cruciale** pour maintenir une bonne santé. Il
 permet de **régénérer l’organisme** après les attaques et les dépenses de notre vie
 quotidienne, autant mental que physique. **Dans une quête de perte de poids,
 prisse de masse musculaire, ou de bien-être général, le sommeil et un acteur
-primordial. **
+primordial**.
 
 Prenez le en compte dans votre journée!
 
