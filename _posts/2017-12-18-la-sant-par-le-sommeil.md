@@ -2,12 +2,12 @@
 layout: post
 title: 'La santé par le sommeil '
 tag: j
-img: /img/uploads/Scan du logo 2.jpg
+img: /img/uploads/autumnal-childs-boys.jpg
 ---
-# Pourquoi le dort-on? 
+# Pourquoi le dort-on?
 
 Le sommeil et un état dans lequel l’organisme
-plonge pour se régénérer. 
+plonge pour se régénérer.
 
 Au niveau mental, le cerveau est exposé -pendant les
 périodes d’éveils-  à de multiples
@@ -15,7 +15,7 @@ stimulations venant du monde extérieur, de l’intérieur du corps et de nos pe
 La gestion de ces hyper-excitations consomme notre énergie et mène à l’épuisement
 = La fatigue. Pour recharger les stocks d’énergie et retrouver un état d’activité
 cérébrale performant, le corps entre en veille et entame des processus de
-régénération = le sommeil. 
+régénération = le sommeil.
 
 Mais le sommeil agit aussi sur l’organisme
 physique. Il répare les dommages causés aux cellules durant nos activités
@@ -24,52 +24,40 @@ il contribue à la formation de nos muscles, la gestion des graisses, la
 croissance et la puberté, l’élimination des toxines…etc.  Autant de missions qui en font un facteur
 prédominant dans la santé et le développement humain !
 
-# Les risques d’un mauvais sommeil : 
+# Les risques d’un mauvais sommeil :
 
--         
-État de fatigue, mental et
-physique (perte de performance) 
+- État de fatigue,
+mental et physique (perte de performance) 
 
--         
-Augmentation des états de stress
-et d’anxiété 
+- Augmentation des
+états de stress et d’anxiété 
 
--         
-Risque d’hypertension
+- Risque d’hypertension
 
--         
-Maladie cardiovasculaire 
+- Maladie cardiovasculaire
 
--         
-Diabète
+- Diabète
 
--         
-Prise de poids
+- Prise de poids
 
--         
-Irritabilité
+- Irritabilité
 
--         
-Troubles de l’humeur
+- Troubles de l’humeur
 
--         
-Dépression   
+- Dépression   
 
--         
-Troubles des mémoires
+- Troubles des mémoires
 
--         
- Problèmes de développement chez l’enfant et l’adolescent
+- Problèmes de développement chez l’enfant et l’adolescent
 \(croissance, capacités intellectuelles...) 
 
--         
-Troubles psychologiques
+- Troubles psychologiques
 
--         
-Système immunitaire moins
-performant (état malade régulier)
+- Système immunitaire
+moins performant (état malade régulier)
 
-- Baisse du niveau de santé général
+- Baisse du niveau de
+santé général
 
 # Améliorer son sommeil :
 
@@ -80,11 +68,11 @@ Limiter les boissons excitantes
 -         
 Éviter toute activité stimulante
 avant d’aller dormir (sport, musique rythmée, rire...) et privilégier les
-activités calmes (méditation, lecture…) 
+activités calmes (méditation, lecture…)
 
 -         
 Programmer et respecter une heure
-de réveil  et de coucher TOUS les jours 
+de réveil  et de coucher TOUS les jours
 
 -         
 Dormir en moyenne 8h par nuit !
@@ -92,34 +80,24 @@ Dormir en moyenne 8h par nuit !
 
 -         
 Une alimentation équilibrée, avec
-des repas ni trop lourds ni trop légers le soir et a des horaires constants. 
+des repas ni trop lourds ni trop légers le soir et a des horaires constants.
 
 -         
 Créer une ambiance calme et
 reposante (lumière tamisé, musique douce…)
 
 -         
-Stopper l’alcool et la cigarette 
+Stopper l’alcool et la cigarette
 
 -         
 Éviter tous écrans (Smartphone,
-tablette, ordinateur…) 
+tablette, ordinateur…)
 
 -         
 Faire une liste des choses à faire
 et à ne pas oublier le lendemain, pour éviter d’y penser et créer une tension
-nerveuse qui va produire des difficultés à l’endormissement. 
+nerveuse qui va produire des difficultés à l’endormissement.
 
 -         
 Investir dans une literie de
 qualité
-
-
-
-
-
- 
-
- 
-
- 
